@@ -1,0 +1,74 @@
+февр. 24, 2024 5:38:17 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: 1, 1
+февр. 24, 2024 5:38:17 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: 1, 1
+февр. 24, 2024 5:38:17 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: +
+февр. 24, 2024 5:38:17 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: 2.0+2.0i
+февр. 24, 2024 5:54:31 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: 1, 1
+февр. 24, 2024 5:54:31 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: 1, 1
+февр. 24, 2024 5:54:31 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: +
+февр. 24, 2024 5:54:31 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: 2.0+2.0i
+февр. 24, 2024 6:00:23 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: 1, 1
+февр. 24, 2024 6:00:23 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: 1, 1
+февр. 24, 2024 6:00:23 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: +
+февр. 24, 2024 6:00:23 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: 2.0+2.0i
+февр. 24, 2024 6:17:36 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: 2, 3
+февр. 24, 2024 6:17:48 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: 4, -5
+февр. 24, 2024 6:17:51 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: -
+февр. 24, 2024 6:17:51 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: -2.0+8.0i
+февр. 24, 2024 6:18:59 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: 1, 1
+февр. 24, 2024 6:18:59 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: 1, 1
+февр. 24, 2024 6:18:59 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: +
+февр. 24, 2024 6:18:59 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: 2.0+2.0i
+февр. 24, 2024 6:19:44 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Действительная часть первого числа не является числом
+февр. 24, 2024 6:21:27 AM ComplexNumberCalculator.service.LOGGER log
+INFO: For input string: "1,56"
+февр. 24, 2024 6:22:06 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: -23, 1.56
+февр. 24, 2024 6:22:06 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: -0.54, 2
+февр. 24, 2024 6:22:06 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: /
+февр. 24, 2024 6:22:06 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: 3.621027122751422+10.522322676857117i
+февр. 24, 2024 6:24:25 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: 1,56, 2
+февр. 24, 2024 6:24:25 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: 3, 5
+февр. 24, 2024 6:24:25 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: +
+февр. 24, 2024 6:24:25 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: 4.5600000000000005+7.0i
+февр. 24, 2024 6:25:13 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено первое число: 1, 1
+февр. 24, 2024 6:25:13 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введено второе число: 0, 0
+февр. 24, 2024 6:25:13 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Введен оператор: /
+февр. 24, 2024 6:25:13 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Результат операции: NaNNaNi
+февр. 24, 2024 6:32:39 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Попытка деления на 0
+февр. 24, 2024 6:33:30 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Попытка деления на 0
+февр. 24, 2024 6:38:50 AM ComplexNumberCalculator.service.LOGGER log
+INFO: Действительная часть первого числа не является числом
